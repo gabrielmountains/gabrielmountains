@@ -1,7 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Gabriele <br/><a href="https://github.com/gabrielmountains">Data Analyst</a>, <a href="https://www.linkedin.com/in/montigabriele/">Finance & Fin-Tech +</a>
+
+<h2>Data Analytics Projects:</h2>
+
+- <b>Blockchain Analysis - Ethereum Gas Price Prediction</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Investment Portfolio Construction and Optimization through Machine Learning and Sentiment Analysis</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>NBA Data Collection, Analysis, and Prediction Models</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>Entrepreneurship Projects</h2>
+
+- [Idospay - Blockchain Transaction Analytics Software for your Invoice Management](https://idospay.com/en/)
+- [Doit - the first Challenge based Social Media App](https://tobeadded.com)
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="GabrieleMonti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/montigabriele/
 
 <!--
-**gabrielmountains/gabrielmountains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
