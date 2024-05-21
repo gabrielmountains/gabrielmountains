@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriele <br/><a href="https://github.com/gabrielmountains">Data Analyst</a>, <a href="https://www.linkedin.com/in/montigabriele/">Finance & Fin-Tech +</a>
+<h1>Hi, I'm Gabriele <br/><a href="https://github.com/gabrielmountains">Data Analyst</a>, <a href="https://www.linkedin.com/in/montigabriele/">Finance/Fin-Tech/DeFi +</a>
 
 <h2>Data Analytics Projects:</h2>
 
