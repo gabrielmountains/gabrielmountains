@@ -3,15 +3,15 @@
 <h2>Data Analytics Projects:</h2>
 
 - <b>Blockchain Analysis - Ethereum Gas Price Prediction</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyzing Ethereum's Blockchain](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Investment Portfolio Construction and Optimization through Machine Learning and Sentiment Analysis</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Quantitative Portfolio Construction & Optimization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [AlgoTrading Bot](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Financial Stock Analyzer](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>NBA Data Collection, Analysis, and Prediction Models</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Most Complete NBA Database](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Entrepreneurship Projects</h2>
 
