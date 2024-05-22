@@ -9,7 +9,7 @@
 - <b>VIX Tracking Fund Construction - Building an optimized ETF to track the VIX Index</b>
   - [VIX Tracking Fund](https://github.com/gabrielmountains/VIX-Tracking-Fund-Construction)
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
-  - [AlgoTrading Bot](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [AlgoTrading Bot](https://github.com/gabrielmountains/AlgoTrading-Bot)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
   - [Financial Stock Analyzer](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>NBA Data Collection, Analysis, and Prediction Models</b>
