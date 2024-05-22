@@ -11,7 +11,7 @@
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
   - [AlgoTrading Bot](https://github.com/gabrielmountains/AlgoTrading-Bot)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
-  - [Financial Stock Analyzer](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Financial Stock Analyzer](https://github.com/gabrielmountains/Financial-Stock-Analyzer)
 - <b>NBA Data Collection, Analysis, and Prediction Models</b>
   - [Most Complete NBA Database](https://github.com/gabrielmountains/NBA-Data-Analysis)
 
