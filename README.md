@@ -7,13 +7,13 @@
 - <b>Investment Portfolio Construction and Optimization through Machine Learning and Sentiment Analysis</b>
   - [Quantitative Portfolio Construction & Optimization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>VIX Tracking Fund Construction - Building an optimized ETF to track the VIX Index</b>
-  - [VIX Tracking Fund](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VIX Tracking Fund](https://github.com/gabrielmountains/VIX-Tracking-Fund-Construction)
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
   - [AlgoTrading Bot](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
   - [Financial Stock Analyzer](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>NBA Data Collection, Analysis, and Prediction Models</b>
-  - [Most Complete NBA Database](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Most Complete NBA Database](https://github.com/gabrielmountains/NBA-Data-Analysis)
 
 <h2>Entrepreneurship Projects</h2>
 
