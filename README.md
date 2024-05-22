@@ -3,7 +3,7 @@
 <h2>Data Analytics Projects:</h2>
 
 - <b>Blockchain Analysis - Ethereum Gas Price Prediction</b>
-  - [Analyzing Ethereum's Blockchain](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyzing Ethereum's Blockchain](https://github.com/gabrielmountains/Analyzing-Ethereum-Blockchain)
 - <b>Investment Portfolio Construction and Optimization through Machine Learning and Sentiment Analysis</b>
   - [Quantitative Portfolio Construction & Optimization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>VIX Tracking Fund Construction - Building an optimized ETF to track the VIX Index</b>
