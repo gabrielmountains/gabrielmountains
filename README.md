@@ -6,6 +6,8 @@
   - [Analyzing Ethereum's Blockchain](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Investment Portfolio Construction and Optimization through Machine Learning and Sentiment Analysis</b>
   - [Quantitative Portfolio Construction & Optimization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>VIX Tracking Fund Construction - Building an optimized ETF to track the VIX Index</b>
+  - [VIX Tracking Fund Construction](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
   - [AlgoTrading Bot](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
