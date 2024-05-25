@@ -18,7 +18,6 @@
 <h2>Entrepreneurship Projects</h2>
 
 - [Idospay - Blockchain Transaction Analytics Software for your Invoice Management](https://idospay.com/en/)
-- Doit - the first Challenge based Social Media App (Loading...)
 
 <h2>Connect with me:</h2>
 
