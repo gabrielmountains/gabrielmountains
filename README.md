@@ -8,6 +8,8 @@
   - [Quantitative Portfolio Construction & Optimization](https://github.com/gabrielmountains/Quantitative-Portfolio-Construction-Optimization)
 - <b>VIX Tracking Fund Construction - Building an optimized ETF to track the VIX Index</b>
   - [VIX Tracking Fund](https://github.com/gabrielmountains/VIX-Tracking-Fund-Construction)
+- <b>Portfolio Metrics and Factor Exposure Analysis - Testing for Performance
+  - [Portfolio Factor Exposure Analysis](https://github.com/gabrielmountains/Portfolio-Metrics-and-Factor-Exposure-Analysis)
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
   - [AlgoTrading Bot](https://github.com/gabrielmountains/AlgoTrading-Bot)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
