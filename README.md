@@ -10,8 +10,12 @@
   - [VIX Tracking Fund](https://github.com/gabrielmountains/VIX-Tracking-Fund-Construction)
 - <b>Portfolio Metrics and Factor Exposure Analysis - Comparing Performance
   - [Portfolio Factor Exposure Analysis](https://github.com/gabrielmountains/Portfolio-Metrics-and-Factor-Exposure-Analysis)
-- <b>Dividend ex Capture & Momentum Strategy- Testing for Alpha
-  - [Dividend & Momentum Strategies]()
+- <b>Dividend Capture Strategy Analysis - Testing for Alpha
+  - [Dividend Capture Analysis]()
+- <b>Value and Momentum Portfolio Construction - Combining Investment Styles
+  - [Value & Momentum Portfolio]()
+- OLS Return Regression - Simple Predictability Analysis
+  - [OLS Regression Prediction]()
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
   - [AlgoTrading Bot](https://github.com/gabrielmountains/AlgoTrading-Bot)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
