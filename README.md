@@ -13,7 +13,7 @@
 - <b>Dividend Capture Strategy Analysis - Testing for Alpha
   - [Dividend Capture Analysis](https://github.com/gabrielmountains/Dividend-Capture-Strategy-Analysis)
 - <b>Value and Momentum Portfolio Construction - Combining Investment Styles
-  - [Value & Momentum Portfolio]()
+  - [Value & Momentum Portfolio](https://github.com/gabrielmountains/Value-and-Momentum-Portfolio-Construction)
 - OLS Return Regression - Simple Predictability Analysis
   - [OLS Regression Prediction]()
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
