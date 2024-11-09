@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gabriele 🇮🇹🇺🇲<br/><a href="https://github.com/gabrielmountains">Data Analyst</a>, <a href="https://www.linkedin.com/in/montigabriele/"> Finance/Fin-Tech/DeFi +</a>
 
-<h2>Data Analytics Projects:</h2>
+<h2>Data Science & Analytics Projects:</h2>
 
 - <b>Blockchain Analysis - Ethereum Gas Price Prediction</b>
   - [Analyzing Ethereum's Blockchain](https://github.com/gabrielmountains/Analyzing-Ethereum-Blockchain)
