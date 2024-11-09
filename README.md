@@ -11,7 +11,7 @@
 - <b>Portfolio Metrics and Factor Exposure Analysis - Comparing Performance
   - [Portfolio Factor Exposure Analysis](https://github.com/gabrielmountains/Portfolio-Metrics-and-Factor-Exposure-Analysis)
 - <b>Dividend Capture Strategy Analysis - Testing for Alpha
-  - [Dividend Capture Analysis]()
+  - [Dividend Capture Analysis](https://github.com/gabrielmountains/Dividend-Capture-Strategy-Analysis)
 - <b>Value and Momentum Portfolio Construction - Combining Investment Styles
   - [Value & Momentum Portfolio]()
 - OLS Return Regression - Simple Predictability Analysis
