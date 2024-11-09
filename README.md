@@ -15,7 +15,7 @@
 - <b>Value and Momentum Portfolio Construction - Combining Investment Styles
   - [Value & Momentum Portfolio](https://github.com/gabrielmountains/Value-and-Momentum-Portfolio-Construction)
 - OLS Return Regression - Simple Predictability Analysis
-  - [OLS Regression Prediction]()
+  - [OLS Regression Prediction](https://github.com/gabrielmountains/OLS-Return-Predictability-Analysis)
 - <b>Algorithmic Trading with Sentiment Analysis through Alpaca Broker</b>
   - [AlgoTrading Bot](https://github.com/gabrielmountains/AlgoTrading-Bot)
 - <b>Financial Analysis of Stocks - Automated Code to analyze any stock you want!</b>
