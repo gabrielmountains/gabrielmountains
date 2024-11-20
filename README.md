@@ -9,7 +9,7 @@
 - <b>VIX Tracking Fund Construction - Building an optimized ETF to track the VIX Index</b>
   - [VIX Tracking Fund](https://github.com/gabrielmountains/VIX-Tracking-Fund-Construction)
 - <b>Context-Aware Alpha Extraction (CAAE) Invseting Strategy - Context-Aware Portfolio
-  - [CAAE Investing Strategy]()
+  - [CAAE Investing Strategy](https://github.com/gabrielmountains/CAAE-Investing-Strategy.git)
 - <b>Portfolio Metrics and Factor Exposure Analysis - Comparing Performance
   - [Portfolio Factor Exposure Analysis](https://github.com/gabrielmountains/Portfolio-Metrics-and-Factor-Exposure-Analysis)
 - <b>Dividend Capture Strategy Analysis - Testing for Alpha
